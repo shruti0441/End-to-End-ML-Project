@@ -1,4 +1,8 @@
 # End-to-End-ML-Project
 
-
-  git config --global user.name "shruti0441"
+''' bash
+conda create -n mlproj python=3.8  -y
+'''
+''' bash 
+pip instal -r requierments.txt
+'''
